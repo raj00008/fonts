@@ -7,18 +7,18 @@
 html{
     font-size: 16px;
     line-height: 1.6;
-    font-family: 'Montserrat', sans-serif;
+    font-family: Montserrat,Skia,'MS Arial','Savoye LET', sans-serif;
 }
 html,body{
     background-color: #d4d4d4;
 }
 h1{
-    font-family: 'Noto Serif', serif;
+    font-family: 'Noto Serif','Times New Roman',Baskerville,Palatin serif;
     font-size: 3.998rem;
     padding:1rem 2rem;
 }
 h2{
-   font-family: 'Palatino', serif;
+   font-family: 'Noto Serif','Times New Roman',Baskerville,Palatin serif;
     font-size: 2.827rem;
     padding:1rem 2rem;
 }
